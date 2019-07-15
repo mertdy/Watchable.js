@@ -1,3 +1,14 @@
+/**
+ * Developer
+ * Mert Donmezyurek
+ * mertdy.com
+ *
+ * GitHub:
+ * https://github.com/mertosmandy/Watchable.js
+ *
+ * LICENSE: MIT
+ */
+
 export class Watchable {
   constructor(val, watcher) {
     this.callbackArr = {

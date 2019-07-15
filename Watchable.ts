@@ -1,3 +1,14 @@
+/**
+ * Developer
+ * Mert Donmezyurek
+ * mertdy.com
+ *
+ * GitHub:
+ * https://github.com/mertosmandy/Watchable.js
+ *
+ * LICENSE: MIT
+ */
+
 export class Watchable {
   private callbackArr = {
     current: 0,

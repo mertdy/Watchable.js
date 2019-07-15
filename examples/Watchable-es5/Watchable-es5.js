@@ -1,3 +1,14 @@
+/**
+ * Developer
+ * Mert Donmezyurek
+ * mertdy.com
+ *
+ * GitHub:
+ * https://github.com/mertosmandy/Watchable.js
+ *
+ * LICENSE: MIT
+ */
+
 'use strict';
 var exportWatchable = {};
 Object.defineProperty(exportWatchable, '__esModule', { value: true });
